@@ -15,7 +15,4 @@ var SearchContainer = connect(mapStateToProps, mapDispatchToProps)(Search);
 
 export default SearchContainer;
 
-//TODO: define a SearchContainer component which
-// will hook up your action dispatchers with your 
-// search component props.
 
